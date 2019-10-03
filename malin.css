@@ -1,0 +1,107 @@
+header{
+  background-color: #646464;
+  height: 50px;
+  width: 100%;
+}
+.menu{
+   float: right;
+   height: 45px;
+   
+   
+   
+}
+.menu li{
+    float: left;
+	margin: auto;
+    padding: 2px;
+    
+
+}
+.menu ul{
+    
+    display: left;
+    background-color:#646464; 
+    list-style-type: none;
+   
+
+}
+.menu li a{
+    display: block;
+	
+	
+	text-decoration: none;
+    padding: 5px;
+    color: white;
+}
+
+
+
+
+
+
+/**parti1**/
+.parti1 h1,.parti2 h1, .parti3 h1 {
+    text-align:center;
+    font-family: 'Mansalva', cursive;
+    font-family: 'Tangerine', cursive;
+    font-family: 'Vibes', cursive;
+    font-family: 'Parisienne', cursive; 
+}
+.parti1{
+    border: 0.5px solid black;
+}
+.rd{
+    display: flex;
+    margin-left: 35px;
+    
+}
+.paragraph{
+   width: 95%;
+   text-align: justify;
+}
+
+
+/**parti2**/
+
+.parti2{
+ border: 1px solid black;
+}
+.cd{
+    display: flex;
+}
+.cd p{
+    width: 95%;
+    text-align: justify;
+}
+
+
+/**parti3**/
+
+.parti3{
+    border: 1px solid black;
+}
+.parti3 p{
+    margin-left: 15px;
+    text-align: justify;
+    margin-right: 45px;
+}
+.re{
+    display: flex;
+}
+
+
+
+body{
+    position: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#barre{
+    height: 2px;
+    width: 100%;
+    background-color: black;
+}
+.photo{
+    float: left;
+}

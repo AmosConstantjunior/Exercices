@@ -1,0 +1,23 @@
+header{
+    height: 200px;
+    background-color:#50a4eb;
+   
+}
+nav{
+    height: 100px;
+    background-color: #1871bb;
+}
+section{
+    height: 550px;
+    background-color: #50a4eb;
+}
+aside{
+    width: 300px;
+    height: 550px;
+    background-color:#466078;
+    float: right; 
+}
+footer{
+    height: 100px;
+    background-color: #254661;
+}
